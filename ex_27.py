@@ -1,8 +1,11 @@
-import math
-num = float(input("enter the number : "))
-num_PI = math.pi
-print(num)
-print(round(num,2))
+# import math
+# num = float(input("enter the number : "))
+# num_PI = math.pi
+# print(num)
+# print(round(num,2))
 
-print(num_PI)
-print(round(num_PI,3))
+# print(num_PI)
+# print(round(num_PI,3))
+
+num = float(input("enter the number (floating)"))
+print(num * 2)
