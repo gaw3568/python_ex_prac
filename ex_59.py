@@ -10,4 +10,3 @@ while True:
         break
     else:
         print("I bet you are",colour,"with envy")    
-    
