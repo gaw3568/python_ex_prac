@@ -8,4 +8,5 @@
 # print(round(num_PI,3))
 
 num = float(input("enter the number (floating)"))
+
 print(num * 2)
