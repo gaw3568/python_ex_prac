@@ -1,5 +1,5 @@
 def file_mode():
-    file_name = str.title(input("Enter a file name : "))
+    file_name = (input("Enter a file name : "))
     file_option = str.lower(input("Enter a file option : "))
     
     isError = True
