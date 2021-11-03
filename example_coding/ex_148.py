@@ -3,8 +3,8 @@
 
 import csv
 
-def Get_csv():
-    file = list(csv.reader(open("User_info.csv")))
+def Get_csv(filename):
+    file = list(csv.reader(open(filename)))
     new_list = []
     for i in file:
         new_list.append(i)

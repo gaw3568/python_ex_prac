@@ -30,5 +30,5 @@ print(new_list[revise_row])
 
 with open("Books.csv", "w") as file:
     for row in new_list:
-        new_data = row[0] + "," + row[1] + "," + row[2] + "\n"
+        new_data = f"{row[0]}, {row[1]}, {row[2]}\n"
         file.write(new_data)
