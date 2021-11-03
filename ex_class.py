@@ -10,3 +10,8 @@ human1 = Human("짱구", "10")
 human2 = Human("철수", "12")
 human1.info()
 human2.info()
+
+human3 = Human("유리", "13")
+human4 = Human("훈이", "11")
+human3.info()
+human4.info()
