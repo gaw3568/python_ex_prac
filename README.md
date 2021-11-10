@@ -1,1 +1,1 @@
-# 파이썬 기본 문제 연습 Repository
+# 파이썬 연습 Repository
